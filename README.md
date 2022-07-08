@@ -14,7 +14,7 @@ Initialize a variable, like the winning_count variable, that will hold the numbe
 If the county is not in the list created in Step 1, add it to the list of county names like you did when adding a candidate to the candidate_options list.
 Write a script that initializes the county vote to zero, like you did when you began to track the vote counts for the candidates.
 
-![Deliverable 1-5] (Resources/deliverable 1 through 4.jpg)
+!(https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/deliverable%201%20through%204.jpg)
 
 -  Write a script that adds a vote to the county’s vote count as you are looping through all the rows, like you did for the candidate’s vote count.
 
@@ -24,7 +24,7 @@ Write a script that calculates the county’s votes as a percentage of the total
 Write a print statement that prints the current county, its percentage of the total votes, and its total votes to the command line.
 Write a decision statement that determines the county with the largest vote count and then adds that county and its vote count to the variables created in Step 2.
 
-![Deliverable 6 through 8] (Resources/deliverable 6 through 8.jpg)
+![(Resources/deliverable 6 through 8.jpg)](https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/deliverable%206%20through%208.jpg)
 
 
 -  Write a print statement that prints out the county with the largest turnout.
@@ -40,7 +40,7 @@ Write a script that saves the county with the largest turnout to the election_re
 
 2. Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-![text file from Interactive window] (Resources/text file from Interactive Window.jpg)
+![(Resources/text file from Interactive Window.jpg)](https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/text%20file%20from%20Interactive%20Window.jpg)
 
 
 3.  How many votes were cast in this congressional election? 
@@ -49,7 +49,7 @@ Write a script that saves the county with the largest turnout to the election_re
 
 4. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-![county votes] (Resources/county votes.jpg)    
+![ (Resources/county votes.jpg)   ](https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/county%20votes.jpg) 
 
 5. Which county had the largest number of votes?
 
@@ -57,11 +57,11 @@ Write a script that saves the county with the largest turnout to the election_re
 
 6. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-![percentage votes] (Resources/percentage votes.jpg)
+![[percentage votes] (Resources/percentage votes.jpg)](https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/percentage%20votes.jpg)
 
 7. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![winner] (Resources/percentage votes.jpg)    
+![[winner] (Resources/percentage votes.jpg)   ](https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/winner.jpg) 
 
 8. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
