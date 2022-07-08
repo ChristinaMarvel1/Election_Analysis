@@ -14,7 +14,7 @@ Initialize a variable, like the winning_count variable, that will hold the numbe
 If the county is not in the list created in Step 1, add it to the list of county names like you did when adding a candidate to the candidate_options list.
 Write a script that initializes the county vote to zero, like you did when you began to track the vote counts for the candidates.
 
-!(https://github.com/ChristinaMarvel1/Election_Analysis/blob/e075c295deae6774e7c84cfb56807c159c951ef3/Resources/deliverable%201%20through%204.jpg)
+![(Resources/deliverable 1 through 4.jpg)](https://github.com/ChristinaMarvel1/Election_Analysis/blob/eeebc6a09af08e22d0138554c348312493e8c4a4/Resources/deliverable%201%20through%204.jpg)
 
 -  Write a script that adds a vote to the county’s vote count as you are looping through all the rows, like you did for the candidate’s vote count.
 
