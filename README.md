@@ -14,7 +14,7 @@ Initialize a variable, like the winning_count variable, that will hold the numbe
 If the county is not in the list created in Step 1, add it to the list of county names like you did when adding a candidate to the candidate_options list.
 Write a script that initializes the county vote to zero, like you did when you began to track the vote counts for the candidates.
 
-![Deliverable 1-5] ()
+![Deliverable 1-5] (Resources/deliverable 1 through 4.jpg)
 
 -  Write a script that adds a vote to the county’s vote count as you are looping through all the rows, like you did for the candidate’s vote count.
 
@@ -24,7 +24,7 @@ Write a script that calculates the county’s votes as a percentage of the total
 Write a print statement that prints the current county, its percentage of the total votes, and its total votes to the command line.
 Write a decision statement that determines the county with the largest vote count and then adds that county and its vote count to the variables created in Step 2.
 
-![Deliverable 6 through 8] ()
+![Deliverable 6 through 8] (Resources/deliverable 6 through 8.jpg)
 
 
 -  Write a print statement that prints out the county with the largest turnout.
@@ -40,7 +40,7 @@ Write a script that saves the county with the largest turnout to the election_re
 
 2. Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-![text file from Interactive window] ()
+![text file from Interactive window] (Resources/text file from Interactive Window.jpg)
 
 
 3.  How many votes were cast in this congressional election? 
@@ -49,7 +49,7 @@ Write a script that saves the county with the largest turnout to the election_re
 
 4. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-![county votes] ()    
+![county votes] (Resources/county votes.jpg)    
 
 5. Which county had the largest number of votes?
 
@@ -57,10 +57,14 @@ Write a script that saves the county with the largest turnout to the election_re
 
 6. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-![percentage votes] ()
+![percentage votes] (Resources/percentage votes.jpg)
 
 7. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![winner] ()    
+![winner] (Resources/percentage votes.jpg)    
 
 8. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+    In this audit we used Python to pull summaries from the CSV file containing our data. With that we were able to calculate the 
+candidate winner and what percentage of the vote they recieved. Since we pulled the county votes, we could do a query on the rest of the candidates and how they fared in each county. Then, we could see not only who won, per county, but also who won with the percentage of the votes in each county. This can help the losing candidate find out what counties they fared well in so for future elections, they will know where to focus their canvassing. It would also be good for the winner, Diana DeGette to know what counties she didn't fare as well in so those counties can be focused on for future elections. 
+        
